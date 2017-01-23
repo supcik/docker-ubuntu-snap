@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 		g++ \
 		gcc \
 		gcc-multilib \
-		g++-multilib
+		g++-multilib \
 		libc6-dev \
 		make \
 		patch \
